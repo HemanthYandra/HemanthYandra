@@ -21,8 +21,8 @@
 
 ## 💻 My Projects
 
-- 🔗 [AI Website Summarizer](https://github.com/HemanthYandra/scaler-ai-projects/ai-website-summarizer) — Summarizes web content using Llama models via the Groq API
-- 🔗 [LLM Arena](https://github.com/HemanthYandra/scaler-ai-projects/llm-arena) — Side-by-side comparison tool for evaluating LLM outputs
+- 🔗 [AI Website Summarizer](https://github.com/HemanthYandra/scaler-ai-projects/tree/master/ai-website-summarizer) — Summarizes web content using Llama models via the Groq API
+- 🔗 [LLM Arena](https://github.com/HemanthYandra/scaler-ai-projects/tree/master/llm-arena) — Side-by-side comparison tool for evaluating LLM outputs
 
 
 ## 🌐 Connect with Me
